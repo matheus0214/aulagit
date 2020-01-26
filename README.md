@@ -1,4 +1,4 @@
-Git:
+## Git:
 
  git init // inicia a linha do tempo  
  git add // adiciona ou atualiza mudanças para irem para a linha do tempoo  
